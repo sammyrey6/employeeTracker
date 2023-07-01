@@ -19,7 +19,10 @@ As an managment tool you would use this to keep track of your employees having v
 
 ## Installation
 
-npm i
+npm i inquirer @8.2.4
+mysql -u *** -p***
+mysql SOURCE db/schema.sql
+mysql SOURCE db/seed.sql(only if this is the first time using the application)
 
 
 ## Question/advise
